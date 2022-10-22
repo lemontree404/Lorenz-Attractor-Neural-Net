@@ -11,14 +11,14 @@ An attempt to build a whitebox and blackbox neural network model that is able to
 # Neural Net Design:
   ![image](https://user-images.githubusercontent.com/90332850/197322148-d72e27c9-62a3-47da-9eb6-09e8929d922c.png)
   
-  Input Dimensions : [3,1]
-  Hidden Layers: 2 (10 neurons each)
-  Output Dimensions : [3,1]
+  Input Dimensions : [3,1]  
+  Hidden Layers: 2 (10 neurons each)  
+  Output Dimensions : [3,1]  
   
-  Activation Functions Used:
-  -- Hidden Layer 1: ReLU
-  -- Hidden Layer 2: ReLU
-  -- Output Layer: Linear
+  ### Activation Functions Used:
+  * Hidden Layer 1: ReLU
+  * Hidden Layer 2: ReLU
+  * Output Layer: Linear
   
  # Results:
  
